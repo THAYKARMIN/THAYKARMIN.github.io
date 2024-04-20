@@ -9,6 +9,6 @@ Wellcome! this is my Python course page, below are some useful links:
 
 Some of the other students in the course:
 
-*[Omer Zachar](https://omerzachar.github.io)
-*[Shahar Garin](https://shahargarin.github.io)
-*[Yuval Bernard](https://yuvalbernard.github.io)
+* [Omer Zachar](https://omerzachar.github.io)
+* [Shahar Garin](https://shahargarin.github.io)
+* [Yuval Bernard](https://yuvalbernard.github.io)
